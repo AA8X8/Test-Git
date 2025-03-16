@@ -20,4 +20,5 @@ print(total, diff, sep='\n')    # ВЫВОД ТОЛЬКО ОТВЕТА
 
 print(a, '*', b, '=', prod)     # ВЫВОД ЦЕЛОГО ПРИМЕРА(ВЫРАЖЕНИЯ) С ОТВЕТОМ НА НЕГО
 print(a, '/', b, '=', div)
-print(a, '**', b, '=', exp) 
+print(a, '**', b, '=', exp)
+print("git clone")
